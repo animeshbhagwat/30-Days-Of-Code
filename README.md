@@ -1,6 +1,6 @@
 # 30-Days-Of-Code
-30 Days of Code by HackerRank in Java 
-https://www.hackerrank.com/domains/tutorials/30-days-of-code
+30 Days of Code by HackerRank in Java.  
+Practice [here](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
 
 ### The following is the list of Solutions:-
 #
